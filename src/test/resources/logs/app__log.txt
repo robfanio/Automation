@@ -1,0 +1,1 @@
+INFO    2020-12-01 22:08:00,202 [main] com.homedepot.pages.logs  - This is my first log
